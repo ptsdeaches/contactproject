@@ -1,0 +1,12 @@
+/Users/pxy/Projects/ContactManagement/contactmanagement/bin/Debug/netcoreapp3.1/contactmanagement.deps.json
+/Users/pxy/Projects/ContactManagement/contactmanagement/bin/Debug/netcoreapp3.1/contactmanagement.runtimeconfig.json
+/Users/pxy/Projects/ContactManagement/contactmanagement/bin/Debug/netcoreapp3.1/contactmanagement.runtimeconfig.dev.json
+/Users/pxy/Projects/ContactManagement/ContactManagement/bin/Debug/netcoreapp3.1/contactmanagement.dll
+/Users/pxy/Projects/ContactManagement/ContactManagement/bin/Debug/netcoreapp3.1/contactmanagement.pdb
+/Users/pxy/Projects/ContactManagement/ContactManagement/obj/Debug/netcoreapp3.1/contactmanagement.csprojAssemblyReference.cache
+/Users/pxy/Projects/ContactManagement/ContactManagement/obj/Debug/netcoreapp3.1/contactmanagement.AssemblyInfoInputs.cache
+/Users/pxy/Projects/ContactManagement/ContactManagement/obj/Debug/netcoreapp3.1/contactmanagement.AssemblyInfo.cs
+/Users/pxy/Projects/ContactManagement/ContactManagement/obj/Debug/netcoreapp3.1/contactmanagement.csproj.CoreCompileInputs.cache
+/Users/pxy/Projects/ContactManagement/ContactManagement/obj/Debug/netcoreapp3.1/contactmanagement.dll
+/Users/pxy/Projects/ContactManagement/ContactManagement/obj/Debug/netcoreapp3.1/contactmanagement.pdb
+/Users/pxy/Projects/ContactManagement/contactmanagement/obj/Debug/netcoreapp3.1/contactmanagement.genruntimeconfig.cache
